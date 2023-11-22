@@ -6,4 +6,4 @@ CREATE TABLE students (
 	email		TEXT		NOT NULL UNIQUE,
 	enrollment_date	DATE
 
-)
+);
