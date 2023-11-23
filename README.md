@@ -9,6 +9,8 @@ getAllStudents(): This function gets all the tuples in the 'students' relation.
 
 addStudent(first_name, last_name, email, enrollment_date): This function adds a student to the 'students' relation.
 
+project demonstration (video): https://www.youtube.com/watch?v=Fr1l5OyTgOM
+
 updateStudentEmail(student_id, new_email): This function updates the email of the student with the given student id.
 
 deleteStudent(student_id): This function deletes the student with the given student id from the 'students' relation.
